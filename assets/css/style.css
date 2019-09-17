@@ -1,23 +1,50 @@
 .heading {
-    background-color: rgb(228, 199, 146);
-    color:  white;
+    background-color: rgb(228, 199, 146, 0.733);
+    color:  rgb(238, 238, 238);
     padding: 50px;
     font-size: 60px;
     text-align: center;
+    border-radius: 25px;
+    margin-bottom: 5px;
 }
 
 #instructions{
-    margin-top: 5px;
     background-color: rgba(159, 216, 197, 0.733);
+    color: rgb(43, 43, 110);
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
     line-height: 30px;
+    font-weight: bold;
+    border-radius: 25px;
 }
 
-.col-12{
-    padding-left: 0;
-    padding-right: 0;
+.col-5{
+    background-color: rgba(138, 243, 138, 0.733);
+    color: rgb(60, 60, 138);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+
+.col-3{
+    background-color: rgb(228, 178, 228, 0.733);
+    color: rgb(60, 60, 138);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 25px;
+}
+
+#crystalimg{
+    height: 100px;
+    width: 100px;
+}
+
+#crystalrow{
+    background-color: red;
+    border-radius: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 
