@@ -1,0 +1,27 @@
+.heading {
+    background-color: rgb(228, 199, 146);
+    color:  white;
+    padding: 50px;
+    font-size: 60px;
+    text-align: center;
+}
+
+#instructions{
+    margin-top: 5px;
+    background-color: rgba(159, 216, 197, 0.733);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 30px;
+}
+
+.col-12{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+body {
+    background-image: url("../images/congruent_pentagon.png");
+    font-family: 'Times New Roman', Times, serif;
+}
