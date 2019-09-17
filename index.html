@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="assets/javascript/game.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
@@ -25,8 +25,10 @@
                 <p>The value of each crystal is hidden until you click on it.</p>
                 <p>Each time when the game starts, the game will change the value of each crystal.</p>
             </div>
-        <div class="col-5"><h1 id="numbertarget">Number to Guess:<span id="computernumber"></span></h1>
-            <div class="row no-gutters" id="crystalrow">Test text<div id="crystalimg"></div></div>
+        <div class="col-5"><h1 id="numbertarget">Number to Guess: <span id="number-to-guess"></span></h1>
+            <div class="row no-gutters" id="crystalrow">
+                <div id="crystalimg"></div>
+            </div>
         </div>
         <div class="col-3">
             <div id="wincounter">
