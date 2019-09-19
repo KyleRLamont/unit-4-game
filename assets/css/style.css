@@ -7,11 +7,11 @@
     border-radius: 25px;
     margin-bottom: 5px;
 }
-.container{
+.container {
     padding: 0;
 }
 
-#instructions{
+#instructions {
     background-color: rgba(159, 216, 197, 0.733);
     color: rgb(43, 43, 110);
     text-align: center;
@@ -21,7 +21,7 @@
     border-radius: 25px;
 }
 
-#numbertarget{
+#numbertarget {
     background-color: rgba(138, 243, 138, 0.733);
     color: rgb(60, 60, 138);
     border-radius: 25px;
@@ -30,7 +30,7 @@
     margin-bottom: 0;
 }
 
-#wincounter{
+#wincounter {
     background-color: rgb(228, 178, 228, 0.733);
     color: rgb(60, 60, 138);
     padding: 15px;
@@ -38,16 +38,17 @@
     height: 25%;
 }
 
-#crystalimg{
-    height: 100px;
-    width: 100px;
+img {
+    height: 110px;
+    width: 110px;
 }
 
-#crystalrow{
+#crystalrow {
     background-color: rgb(255, 138, 138, 0.733);
     border-radius: 25px;
     padding: 15px;
     height: 75%;
+    align-content: center;
 }
 
 #scorecard{
@@ -61,3 +62,4 @@ body {
     background-image: url("../images/congruent_pentagon.png");
     font-family: 'Times New Roman', Times, serif;
 }
+
