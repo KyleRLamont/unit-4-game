@@ -26,8 +26,17 @@
     color: rgb(60, 60, 138);
     border-radius: 25px;
     padding: 15px;
-    height: 25%;
+    height: 75%;
     margin-bottom: 0;
+    text-align: center;
+}
+
+#number-to-guess{
+    color: rgb(60, 60, 138);
+    font-size: 90px;
+    text-align: center;
+    padding-top: 80px;
+
 }
 
 #wincounter {
@@ -43,12 +52,15 @@ img {
     width: 105px;
 }
 
+.btn {
+    padding: 0;
+}
+
 #crystalrow {
-    background-color: rgb(255, 138, 138, 0.733);
     border-radius: 25px;
     padding: 15px;
-    height: 75%;
-    align-content: center;
+    height: 25%;
+    align-content: top;
 }
 
 #scorecard{
@@ -56,6 +68,13 @@ img {
     padding: 15px;
     border-radius: 25px;
     height: 75%;
+    text-align: center;
+}
+
+#scoretext{
+    padding-top: 90px;
+    font-size: 50px;
+    text-align: center;
 }
 
 body {
