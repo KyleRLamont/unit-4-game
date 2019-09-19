@@ -29,6 +29,9 @@ Now that you've read all of that, I hope you enjoy!
 
 ## Links
 [Javacript](assets/javascript/game.js)
+
 [CSS](assets/css/style.css)
+
 [My Portfolio](kylerlamont.github.io/Responsive-Portfolio)
+
 [Original Assignment Image](https://uwa.bootcampcontent.com/UWA-Bootcamp/UW-SEA-FSF-PT-08-2019-U-C/raw/master/class-content/04-jquery/02-Homework/Instructions/Images/1-CrystalCollector.jpg)
