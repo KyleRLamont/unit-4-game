@@ -66,7 +66,8 @@ $(document).ready(function() {
         crys2 = Math.floor(Math.random()*11+1);
         crys3 = Math.floor(Math.random()*11+1);
         crys4 = Math.floor(Math.random()*11+1);
-        totalval= 0;
+        totalval = 0;
+        $("#scoretext").text("");
     }
     
 });
