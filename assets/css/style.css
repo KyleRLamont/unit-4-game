@@ -50,11 +50,6 @@
 
 .countertext {
     text-align: center;
-    padding-left: 10px;
-}
-
-#losses {
-    padding-left: 5px;
 }
 
 img {
@@ -64,6 +59,7 @@ img {
 
 .btn {
     padding: 0;
+    border-radius: 25px;
 }
 
 #crystalrow {
